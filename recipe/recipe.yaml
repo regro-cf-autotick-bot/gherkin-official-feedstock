@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "29.0.0"
+  version: "42.0.0"
 
 package:
   name: gherkin-official
@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/g/gherkin-official/gherkin_official-${{ version }}.tar.gz
-  sha256: dbea32561158f02280d7579d179b019160d072ce083197625e2f80a6776bb9eb
+  sha256: 2ae52b6d510bfa78b70bde7ceb1f2afd59e28fa36c7ddbdacc96db2b65f5978f
 
 build:
   number: 0
